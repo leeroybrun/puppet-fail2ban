@@ -1,5 +1,5 @@
 name 'leeroybrun-fail2ban'
-version '1.0.0'
+version '1.0.1'
 source 'git://github.com/leeroybrun/puppet-fail2ban'
 author 'Leeroy Brun'
 license 'MIT'
