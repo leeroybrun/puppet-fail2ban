@@ -1,4 +1,4 @@
-define tripwire::config (
+define fail2ban::config (
   $ignoreip = '127.0.0.1/8',
   $bantime = '600',
   $findtime = '600',

@@ -1,4 +1,4 @@
-class tripwire (
+class fail2ban (
   $ensure = 'latest'
 ){
 
